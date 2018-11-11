@@ -7,7 +7,6 @@ body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    
 }
 
 h1 {
@@ -24,7 +23,6 @@ h1 {
     background-color: white;
     height: auto;
     width: 100%;
-    /* border-bottom: 1.5px solid #55c7f3; */
     box-shadow: 0px 7px 7px #55c6f3b2;
     text-align: center;
 }
@@ -56,14 +54,15 @@ h1 {
 .results {
     margin: 0 auto;
     text-align: center;
-    width: 90%;
+    width: 100%;
 }
 
 .product {
+    text-align: left;
     position: relative;
-    width: 90%;
-    margin: 30px auto;
-    height: 25px;
+    width: 95%;
+    margin: 12px auto;
+    height: 60px;
     border-radius: 10px;
     background-color: white;
 }

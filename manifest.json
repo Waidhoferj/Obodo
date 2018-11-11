@@ -5,7 +5,7 @@
     "version":"1.0",
     "author": "Waidhoferj",
    "browser_action": {
-      
+      "default_icon": "obodo-icon-48",
       "default_title": "Obodo",
       "default_popup": "popup.html"
     },
