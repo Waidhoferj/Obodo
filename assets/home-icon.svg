@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1080" style="enable-background:new 0 0 1200 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#F6F6F6;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:26;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:26;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Background" class="st0">
+	<rect class="st1" width="1200" height="1080"/>
+</g>
+<g id="ICON">
+	<g>
+		<polyline class="st2" points="704,293 704,267 795,267 795,371 		"/>
+		<path class="st3" d="M600,241L301,527h65v286c0,14.4,11.6,26,26,26h143V683c0-7.2,5.8-13,13-13h104c7.2,0,13,5.8,13,13v156h143
+			c14.4,0,26-11.6,26-26V527h65L600,241z"/>
+	</g>
+</g>
+</svg>
