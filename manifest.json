@@ -1,16 +1,22 @@
 {
     "manifest_version": 2,
-    "name": "LocalMotive",
-    "description": "Discover local products for more sustainable purchasing habits",
+    "name": "Obodo",
+    "description": "Discover local products for more sustainable shopping habits",
     "version":"1.0",
-    "author": "Waidhoferj",
-   "browser_action": {
-      "default_icon": "obodo-icon-48",
-      "default_title": "Obodo",
-      "default_popup": "popup.html"
+    "author": "John Waidhofer, Bjorn Nelson, Daryan Qawami",
+    "icons": { "48": "assets/obodo-icon-48.png",
+               "128": "assets/obodo-icon.png"
+             },
+    "browser_action": {
+        "default_icon": {
+            "48": "assets/obodo-icon-48.png",
+            "128": "assets/obodo-icon.png"
+        },
+        "default_title": "Obodo",
+        "default_popup": "popup.html"
     },
-   "chrome_url_overrides" : {
+    "chrome_url_overrides" : {
      
-   },
+    },
     "permissions": ["activeTab"]
-   }
+}
